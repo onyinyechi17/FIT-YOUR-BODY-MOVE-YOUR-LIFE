@@ -8,7 +8,7 @@ Iterative Improvements:
 
 Challenge: The initial model provided generic fitness advice that did not differentiate between fitness levels.
 
-Prompt Refinement: I re-engineered the system prompt to explicitly require the AI to categorize users into "Beginner," "Intermediate," and "Advanced" tiers, ensuring that exercise intensity and duration were appropriately scaled.
+Prompt Refinement: I re-engineered the system prompt to explicitly require the AI to categorize users into Beginner, Intermediate, and Advanced tiers, ensuring that exercise intensity and duration were appropriately scaled.
 
 Constraint Implementation: I refined the instructions to prioritize safety, requiring the AI to include disclaimers and recommend medical consultation for high-intensity suggestions.
 
